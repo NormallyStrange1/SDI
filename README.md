@@ -1,2 +1,2 @@
-# SSD
+# SDI
 Software Design and Implementation
