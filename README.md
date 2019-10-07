@@ -5,4 +5,4 @@ Software Design and Implementation
 
 ## Group 4
 
-## Wedad
+## Tutor: Wedad
